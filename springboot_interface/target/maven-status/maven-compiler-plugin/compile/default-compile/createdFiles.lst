@@ -1,0 +1,6 @@
+cn\kgc\entity\UserExample$Criteria.class
+cn\kgc\entity\UserExample$Criterion.class
+cn\kgc\service\UserService.class
+cn\kgc\entity\User.class
+cn\kgc\entity\UserExample.class
+cn\kgc\entity\UserExample$GeneratedCriteria.class
